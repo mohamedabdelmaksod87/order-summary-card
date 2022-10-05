@@ -1,6 +1,6 @@
 ## Order Summary Card Challenge
 
-This is my solution to a Frontend challenge from Frontend Mentor to build Order summary card using HTML & CSS.
+This is my solution to a Frontend challenge from Frontend Mentor to build order summary card using HTML & CSS.
 The Design is fully responsive on different screen sizes.
 
 ## Challenge Link
