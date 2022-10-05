@@ -7,7 +7,9 @@ The Design is fully responsive on different screen sizes.
 
 https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj
 
-## My Solution Online Link
+## My Solution Live Link
+
+https://mohamedabdelmaksod87.github.io/order-summary-card/
 
 ## To inspect and run the code locally:
 
