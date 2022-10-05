@@ -3,6 +3,8 @@
 This is my solution to a Frontend challenge from Frontend Mentor to build order summary card using HTML & CSS.
 The Design is fully responsive on different screen sizes.
 
+![Design Img](images/desktop-design.jpg)
+
 ## Challenge Link
 
 https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj
